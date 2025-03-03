@@ -1,4 +1,4 @@
-# 🎵 Anna Obara | Sound & Music Computing Student 🎶
+# Sound & Music Computing Student 🎶
 
 **🔊 Exploring the intersection of audio, technology, and computation.**  
 Passionate about **DSP, spatial audio, and interactive sound experiences**.
@@ -14,7 +14,7 @@ Passionate about **DSP, spatial audio, and interactive sound experiences**.
 - **Creative Tools:** Unity (for VR/AR), Pure Data, Reaper
 
 ## Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/anna-obara/)
-- 📂 [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/anna-obara/)
+- [GitHub](https://github.com/yourusername)
 
 🎶 Let's make something **sonically awesome**! 🚀🎧

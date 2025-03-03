@@ -8,4 +8,4 @@ Exploring the intersection of audio technology, music, and computation. Passiona
 
 Let’s connect and create something sonically awesome! 🚀🎧
 
-LinkedIn:([https://www.linkedin.com/in/annaobara](https://www.linkedin.com/in/anna-obara/)]
+LinkedIn:([https://www.linkedin.com/in/annaobara](anna-obara/)]

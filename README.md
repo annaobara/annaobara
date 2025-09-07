@@ -1,12 +1,12 @@
-# Sound & Music Computing Student 🎶
+# Sound & Music Computing Student
 
-**🔊 Exploring the intersection of audio, technology, and computation.**  
+**Exploring the intersection of audio, technology, and computation.**  
 Passionate about **DSP, spatial audio, and interactive sound experiences**.
 
 ## About Me
-- 🎧 Working on **real-time just intonation tuning, VR/AR music projects, and binaural processing**.
-- 🔍 Interested in **signal processing, machine listening, and immersive soundscapes**.
-- 💡 Building projects that blend **science, art, and technology**.
+- Working on **real-time just intonation tuning, VR/AR music projects, and binaural processing**.
+- Interested in **signal processing, machine listening, and immersive soundscapes**.
+- Building projects that blend **science, art, and technology**.
 
 ## Tech Stack
 - **Programming:** Python | MATLAB | C++ (a little) | Max/MSP
@@ -17,4 +17,4 @@ Passionate about **DSP, spatial audio, and interactive sound experiences**.
 - [LinkedIn](https://www.linkedin.com/in/anna-obara/)
 - [GitHub](https://github.com/yourusername)
 
-🎶 Let's make something **sonically awesome**! 🚀🎧
+Let's make something **sonically awesome**!

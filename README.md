@@ -17,4 +17,3 @@ Passionate about **DSP, spatial audio, and interactive sound experiences**.
 - [LinkedIn](https://www.linkedin.com/in/anna-obara/)
 - [GitHub](https://github.com/yourusername)
 
-Let's make something **sonically awesome**!
